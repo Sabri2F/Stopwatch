@@ -3,7 +3,6 @@
 *{
     margin: 0;
     padding: 0;
-    /* background-color: red; */
 }
 
 body{
@@ -23,6 +22,8 @@ body{
 .txt{
     font-size: 50px;
 }
+
+
 
 .select{
     display: flex;
